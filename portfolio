@@ -27,18 +27,30 @@
 			<h2>Portfolio</h2>
 			<hr id="abouthr">
 			
-			<div class="imageContainer">
-				<img src="port1.jpg" alt="portfolioimage"/>
-				<h3><span>Hangman</span><h3>
-			</div>
+			<div class="portfolioimage">
+	            <a href="https://www.google.com"><img border="0" alt="Project 1" src="port1.jpg"></a>
+	            <a href="https://www.google.com"><h2>Text!</h2></a>
+            </div>
 
+            <div class="portfolioimage">
+            	<a href="https://www.google.com"><img border="0" alt="Project 2" src="port2.jpg"></a>
+                <a href="https://www.google.com"><h2>Text!</h2></a>
+            </div>
 
+            <div class="portfolioimage">
+            	<a href="https://www.google.com"><img border="0" alt="Project 3" src="port3.jpg"></a>
+                <a href="https://www.google.com"><h2>Text!</h2></a>
+            </div>
 
+            <div class="portfolioimage">
+            	<a href="https://www.google.com"><img border="0" alt="Project 4" src="port4.jpg"></a>
+                <a href="https://www.google.com"><h2>Text!</h2></a>
+            </div>
 
-
-
-
-
+            <div class="portfolioimage">
+            	<a href="https://www.google.com"><img border="0" alt="Project 5" src="port5.jpg"></a>
+                <a href="https://www.google.com"><h2>Text!</h2></a>
+            </div>
 
 		</section>
 		<section id="connect">
